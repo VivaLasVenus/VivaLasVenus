@@ -1,13 +1,12 @@
 # Viva Las Venus  
-**| Português | English | Español |
+| Português | English | Español |
 | -------- | -------- | -------- |
 | - [O que é o Viva Las Venus](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#o-que-%C3%A9-o-viva-las-venus)   |What is Viva Las Venus     | Qué es el Viva Las Venus   |
-|-   [Porque o Viva Las Venus foi criado](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#porque-o-viva-las-venus-foi-criado)  | Why Viva Las Venus was created |Porque el Viva Las Venus fue creado|
-| -   [Definições de alguns termos](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#defini%C3%A7%C3%B5es-de-alguns-termos)   |  Definitions of some terms| Definiciones de algunos términos|
-| -   [Quem somos](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#quem-somos)   |Who we are    |Quienes somos|
-|-   [Como você pode contribuir](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#como-voc%C3%AA-pode-contribuir) |   | How you can contribute   |  Cómo usted puede contribuir  |
-| -   [Dúvidas, críticas, sugestões](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#d%C3%BAvidas-cr%C3%ADticas-sugest%C3%B5es)   |  Suggestions and feedback | Dudas, críticas, sugerencias**|
-
+|-   [Porque o Viva Las Venus foi criado](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#porque-o-viva-las-venus-foi-criado)  | Why Viva Las Venus was created |Porque el Viva Las Venus fue creado
+| -   [Definições de alguns termos](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#defini%C3%A7%C3%B5es-de-alguns-termos)   |  Definitions of some terms| Definiciones de algunos términos
+| -   [Quem somos](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#quem-somos)   |Who we are    |Quienes somos
+|-   [Como você pode contribuir](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#como-voc%C3%AA-pode-contribuir) |   | How you can contribute   |  Como  |
+| -   [Dúvidas, críticas, sugestões](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#d%C3%BAvidas-cr%C3%ADticas-sugest%C3%B5es)   |  Suggestions and feedback | Dudas, críticas, sugerencias
 
 ## Bem-vindas(os)!
 Antes de tudo, sejam bem-vindas(os)! Obrigada por acessarem o repositório do projeto Viva Las Venus. Este documento, o arquivo README, é o ponto central que te dará informações sobre o projeto.    
