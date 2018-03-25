@@ -3,6 +3,7 @@
 ### Bem-vindas(os)!
 Antes de tudo, sejam bem-vindas(os)! Obrigada por acessarem o repositório do projeto Viva Las Venus. Este documento, o arquivo README, é o ponto central que te dará informações sobre o projeto.    
 ### O que é o Viva Las Venus
+
 O Viva Las Venus é um dos projetos que fazem parte do programa [Mozilla Open Leaders Round 5](https://mozilla.github.io/leadership-training/round-5/projects/). É uma iniciativa de longo prazo que visa ser um semeador para outros projetos, em busca de uma internet mais saudável, segura e diversificada.  Viva Las Venus se propõe ensinar, principalmente, mas não exclusivamente, mulheres cis e trans, sobre ferramentas e técnicas de privacidade e segurança através de oficinas, debates e palestras, pessoalmente e on-line.  
 
 Este é um projeto colaborativo, feito por todas(os) e para todas(as).  
@@ -14,6 +15,7 @@ Hoje em dia, a maior parte de nossas vidas está online, amizade, namoro, compra
 - Cyber Bulllying: ou assédio virtual.
 - Neutralidade da rede:
 - Vigilância: 
+=======
 
 
 
