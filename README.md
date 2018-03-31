@@ -45,6 +45,13 @@ Hoje em dia, a maior parte de nossas vidas está online, amizade, namoro, compra
 Somos uma rede aberta de pessoas de diferentes origens, experiência, qualificações, idade e gêneros. 
 
 ### [Como você pode contribuir](#como-você-pode-contribuir)
+Se interessou pelo projeto? A sua ajuda é muito bem bem-vinda!
+
+Tudo bem se você não entende muito ou nada sobre segurança e privacidade, você pode colaborar de outras formas e também aprender.  Nenhuma contribuição é pequena.  
+
+Lembre-se que todo conhecimento dividido, se multiplica!
+
+Por favor leia o **[CONTRIBUTING.md](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/CONTRIBUTING.md)**, ali você encontrará todas as informações de como contribuir com o Viva Las Venus.  Em nossa página **[Wiki](https://github.com/VivaLasVenus/VivaLasVenus/wiki)** existem vários links com dicas, tutoriais e ferramentas sobre privacidade e segurança.  Temos um **[Código de Conduta](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/CODE_OF_CONDUCT.md#c%C3%B3digo-de-conduta-para-colaboradores)**. É muito importante ler, ali estão algumas diretrizes para ajudar a garantir uma experiência segura, enriquecedora e positiva para todos.
 
 
 ### [Dúvidas, críticas, sugestões](#dúvidas-críticas-sugestões)
