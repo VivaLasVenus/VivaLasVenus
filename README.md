@@ -32,19 +32,19 @@ O Viva Las Venus é um dos projetos que fazem parte do programa [Mozilla Open Le
 
 Este é um projeto colaborativo, feito por todas(os) e para todas(as).  
 
-### [Porque o Viva Las Venus foi criado](#porque-o-viva-las-venus-foi-criado)
+### Porque o Viva Las Venus foi criado
 Hoje em dia, a maior parte de nossas vidas está online, amizade, namoro, compras, trabalho e muitas outras atividades, mas em tempos de vigilância em massa excessiva, coleta de dados, assédio, *cyber bullying, trolls, doxxing*, neutralidade da rede em perigo entre tantas outras ameaças, torna-se mais do que necessário saber como se proteger e as pessoas que amamos através do aprendizado sobre privacidade e segurança nos meios digitais de comunicação.  
 
-### [Definições de alguns termos](#definições-de-alguns-termos)
+### Definições de alguns termos
 - Doxxing: abreviação de “droping documents”ou “liberação de documentos”. Essencialmente significa juntar e expor um dossiê de informações pessoais de alguém com a intenção de assediar ou vingança. Se trata da exposição de documentos privados de alguém. 
 - Cyber Bulllying: ou assédio virtual.
 - Neutralidade da rede:
 - Vigilância:   
 
-### [Quem somos](#quem-somos)
+### Quem somos
 Somos uma rede aberta de pessoas de diferentes origens, experiência, qualificações, idade e gêneros. 
 
-### [Como você pode contribuir](#como-você-pode-contribuir)
+### Como você pode contribuir
 Se interessou pelo projeto? A sua ajuda é muito bem bem-vinda!
 
 Tudo bem se você não entende muito ou nada sobre segurança e privacidade, você pode colaborar de outras formas e também aprender.  Nenhuma contribuição é pequena.  
@@ -54,13 +54,13 @@ Lembre-se que todo conhecimento dividido, se multiplica!
 Por favor leia o **[CONTRIBUTING.md](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/CONTRIBUTING.md)**, ali você encontrará todas as informações de como contribuir com o Viva Las Venus.  Em nossa página **[Wiki](https://github.com/VivaLasVenus/VivaLasVenus/wiki)** existem vários links com dicas, tutoriais e ferramentas sobre privacidade e segurança.  Temos um **[Código de Conduta](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/CODE_OF_CONDUCT.md#c%C3%B3digo-de-conduta-para-colaboradores)**. É muito importante ler, ali estão algumas diretrizes para ajudar a garantir uma experiência segura, enriquecedora e positiva para todos.
 
 
-### [Dúvidas, críticas, sugestões](#dúvidas-críticas-sugestões)
+### Dúvidas, críticas, sugestões
 Você pode criar uma [**issue**](https://github.com/VivaLasVenus/VivaLasVenus/issues) ou continuar com alguma discussão já iniciada. Essa é a melhor forma de se comunicar com todos.
 
 Se preferir, você também pode entrar em contato por email **vivalasvenus@riseup.net**
 
-### [English](#english)  
+### English
 
-### [Español](#español)
+### Español
 
 
