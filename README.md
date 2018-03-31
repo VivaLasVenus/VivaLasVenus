@@ -33,7 +33,14 @@ O Viva Las Venus é um dos projetos que fazem parte do programa [Mozilla Open Le
 Este é um projeto colaborativo, feito por todas(os) e para todas(as).  
 
 ### Porque o Viva Las Venus foi criado
-Hoje em dia, a maior parte de nossas vidas está online, amizade, namoro, compras, trabalho e muitas outras atividades, mas em tempos de vigilância em massa excessiva, coleta de dados, assédio, *cyber bullying, trolls, doxxing*, neutralidade da rede em perigo entre tantas outras ameaças, torna-se mais do que necessário saber como se proteger e as pessoas que amamos através do aprendizado sobre privacidade e segurança nos meios digitais de comunicação.  
+Hoje em dia, a maior parte de nossas vidas está online, amizade, namoro, compras, trabalho e muitas outras atividades.  
+
+Em tempos de vigilância em massa excessiva, coleta de dados, assédio, *cyber bullying, trolls, doxxing*, neutralidade da rede em perigo entre tantas outras ameaças, torna-se mais do que necessário saber como se proteger e as pessoas que amamos através do aprendizado sobre privacidade e segurança nos meios digitais de comunicação.  Talvez ninguém tenha te avisado que nossa vida online necessita tantos cuidados e atenção quanto nossa vida fora da web.
+
+Este é o nosso objetivo:  dar liberdade às pessoas, educando-as sobre conceitos, ferramentas e técnicas de privacidade e segurança para sua vida cotidiana.
+
+
+
 
 ### Definições de alguns termos
 - Doxxing: abreviação de “droping documents”ou “liberação de documentos”. Essencialmente significa juntar e expor um dossiê de informações pessoais de alguém com a intenção de assediar ou vingança. Se trata da exposição de documentos privados de alguém. 
