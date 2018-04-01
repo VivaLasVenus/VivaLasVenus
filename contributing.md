@@ -1,4 +1,4 @@
-# CONTRIBUTING
+# Como contribuir
 
 ## Contribuindo com o Viva Las Venus
 
