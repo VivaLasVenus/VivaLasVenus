@@ -12,7 +12,7 @@ First of all, welcome! Thank you for visiting the Viva Las Venus project reposit
 
 En primer lugar, ¡sean bienvenidas\(os\)! Gracias por acceder al repositorio del proyecto Viva Las Venus. Este documento, el archivo README, es el punto central que te dará información sobre el proyecto.
 
-| [Português](./#português) | [English](./#english) | [Español](./#español) |
+| [Português](./#português) | [English](#english) | [Español](#español) |
 | --- | --- | --- |
 | [O que é o Viva Las Venus](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#o-que-é-o-viva-las-venus) | What is Viva Las Venus | Qué es Viva Las Venus |
 | [Porque o Viva Las Venus foi criado](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#porque-o-viva-las-venus-foi-criado) | Why Viva Las Venus was created | Por que se creó el proyecto Viva Las Venus |
@@ -64,7 +64,7 @@ Você pode criar uma [**issue**](https://github.com/VivaLasVenus/VivaLasVenus/is
 
 Se preferir, você também pode entrar em contato por email **vivalasvenus@riseup.net**
 
-## English(./#english)
+## English
 
-## Español(./#español)
+## Español
 
