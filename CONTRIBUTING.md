@@ -26,33 +26,33 @@ Se houver qualquer comportamento inaceitável, seja online ou presencial, favor 
 
 Neste guia, você encontrará diretrizes, não regraspara facilitar a sua participação no Viva Las Venus.
 
-* [Issues](como-contribuir.md#issues)
-* [Labels](como-contribuir.md#labels)
-* [Commits](como-contribuir.md#commits)
+* [`Issues`](como-contribuir.md#issues)
+* [`Labels`](como-contribuir.md#labels)
+* [`Commits`](como-contribuir.md#commits)
 
   &lt;!--- - Como enviar alterações \(pull request\)  
 
 * Como reportar erros \(bugs\) ---&gt;
 
-### Issues
+### `Issues`
 
-Issues ou problemas. Essa é a melhor forma de se comunicar com todos. Você pode criar ou continuar com alguma discussão já iniciada.
+`Issues` ou problemas. Essa é a melhor forma de se comunicar com todos. Você pode criar ou continuar com alguma discussão já iniciada.
 
 * Sugestões e recomendações específicas sobre como melhorar nosso conteúdo ou em qualquer lugar que o conteúdo pareça ausente ou esteja incompleto.
 
-### Labels
+### `Labels`
 
-Os labels ou etiquetas ajudam a acompanhar e gerenciar as issues e atender a solicitações.
+Os `labels` ou etiquetas ajudam a acompanhar e gerenciar as issues e atender a solicitações.
 
-* Os labels são agrupados livremente. 
-* Uma issue pode ter mais de um label     
-* Recomendável mas não necessário que todos as issues tenham algum label
+* Os `labels` são agrupados livremente. 
+* Uma `issue` pode ter mais de um label     
+* Recomendável mas não necessário que todos as `issues` tenham algum label
 
-### Commits
+### `Commits`
 
-Quando você propõe alguma mudança, para realmente confirmá-la você usa o commit com uma mensagem. O ideal das mensagens são:
+Quando você propõe alguma mudança, para realmente confirmá-la você usa o `commit` com uma mensagem. O ideal das mensagens são:
 
-* Sempre que puder, as mensagens devem ser em inglês e se possível também em português e espanhol também.  O uso da língua inglesa é uma forma mais global de usar o GitHub
+* Sempre que puder, as mensagens devem ser em inglês e se possível também em português e espanhol.  O uso da língua inglesa é uma forma mais global de usar o GitHub
 * Use o tempo presente \("Add feature" não "Added feature"\)  
 * Use o modo imperativo \("Move cursor to ..."  não "Moves cursor to..."\)  
 * No título, seja conciso, deixa a explicação na descrição.
