@@ -64,7 +64,7 @@ Você pode criar uma [**issue**](https://github.com/VivaLasVenus/VivaLasVenus/is
 
 Se preferir, você também pode entrar em contato por email **vivalasvenus@riseup.net**
 
-## English
+## English(./#english)
 
-## Español
+## Español(./#español)
 
