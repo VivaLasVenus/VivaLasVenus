@@ -1,5 +1,7 @@
 # Viva Las Venus
 
+
+
 ## Bem-vindas\(os\)!
 
 Antes de tudo, sejam bem-vindas\(os\)! Obrigada por acessarem o repositório do projeto Viva Las Venus. Este documento, o arquivo README, é o ponto central que te dará informações sobre o projeto.
@@ -12,22 +14,37 @@ First of all, welcome! Thank you for visiting the Viva Las Venus project reposit
 
 En primer lugar, ¡sean bienvenidas\(os\)! Gracias por acceder al repositorio del proyecto Viva Las Venus. Este documento, el archivo README, es el punto central que te dará información sobre el proyecto.
 
-| [Português](./#português) | [English](#english) | [Español](#español) |
-| --- | --- | --- |
-| [O que é o Viva Las Venus](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#o-que-é-o-viva-las-venus) | What is Viva Las Venus | Qué es Viva Las Venus |
-| [Porque o Viva Las Venus foi criado](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#porque-o-viva-las-venus-foi-criado) | Why Viva Las Venus was created | Por que se creó el proyecto Viva Las Venus |
-| [Definições de alguns termos](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#definições-de-alguns-termos) | Definitions of some terms | Algunas definiciones de términos importantes para el proyecto |
-| [Quem somos](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#quem-somos) | Who we are | Quienes somos |
-| [Como você pode contribuir](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#como-você-pode-contribuir) | How you can contribute | Cómo se puede contribuir |
-| [Dúvidas, críticas, sugestões](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/README.md#dúvidas-críticas-sugestões) | Suggestions and feedback | Dudas, criticas y sugeréncias |
+* [**Português**](#português) 
+    * [O que é o Viva Las Venus](#o-que-é-o-viva-las-venus)
+    * [Porque o Viva Las Venus foi criado](#porque-o-viva-las-venus-foi-criado)
+    * [Definições de alguns termos](#definições-de-alguns-termos)
+    * [Quem somos](#quem-somos)
+    * [Como você pode contribuir](#como-você-pode-contribuir)
+    * [Dúvidas, críticas, sugestões](#dúvidas-críticas-sugestões)
+* [**English**](#english)
+    * What is Viva Las Venus
+    * Why Viva Las Venus was created
+    * Definitions of some terms
+    * Who we are
+    * How you can contribute
+    * Suggestions and feedback
+* [**Español**](#español)
+    * Qué es Viva Las Venus
+    * Por que se creó el proyecto Viva Las Venus
+    * Algunas definiciones de términos importantes para el proyecto
+    * Quienes somos
+    * Cómo se puede contribuir
+    * Dudas, criticas y sugeréncias
 
-## [Português](./#português)
 
+### Português
 ## O que é o Viva Las Venus
 
 O Viva Las Venus é um dos projetos que fazem parte do programa [Mozilla Open Leaders Round 5](https://mozilla.github.io/leadership-training/round-5/projects/). É uma iniciativa de longo prazo que visa ser um semeador para outros projetos, em busca de uma internet mais saudável, segura e diversificada. Viva Las Venus se propõe ensinar, principalmente, mas não exclusivamente, mulheres cis e trans, sobre ferramentas e técnicas de privacidade e segurança através de oficinas, debates e palestras, pessoalmente e on-line.
 
-Este é um projeto colaborativo, feito por todas\(os\) e para todas\(as\).
+**Queremos que o Viva Las Venus seja uma comunidade global e aberta,  feito por todas\(os\) e para todas\(as\).**
+
+Este é um projeto colaborativo, 
 
 ## Porque o Viva Las Venus foi criado
 
