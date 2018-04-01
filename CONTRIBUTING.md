@@ -26,9 +26,9 @@ Se houver qualquer comportamento inaceitável, seja online ou presencial, favor 
 
 Neste guia, você encontrará diretrizes, não regraspara facilitar a sua participação no Viva Las Venus.
 
-* [`Issues`](como-contribuir.md#issues)
-* [`Labels`](como-contribuir.md#labels)
-* [`Commits`](como-contribuir.md#commits)
+* [`Issues`](#issues)
+* [`Labels`](#labels)
+* [`Commits`](#commits)
 
   &lt;!--- - Como enviar alterações \(pull request\)  
 
