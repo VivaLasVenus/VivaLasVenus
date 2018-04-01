@@ -15,7 +15,7 @@ Você pode contribuir com design,logo, comunicação visual, desenvolvimento do 
 **Nenhuma contribuição é pequena.**
 
 ###### \*`Currículo Aberto`: criar estruturas de aulas, workshops e até palestras, que podem ser usadas, distribuídas e modificadas livremente (usamos [Mozilla Public License 2.0](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/LICENSE)\). Este recurso ajuda a ter mais e mais rápidofeedback e participações, que melhora nosso material e de quem mais decidir usar.
-
+-----------------
 ## Diretrizes de participação
 
 Temos um [**Código de Conduta**](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/Code%20of%20Conduct.md). É muito importante você ler, ali estão algumas diretrizes para ajudar a garantir uma experiência segura, enriquecedora e positiva para todos.
@@ -24,21 +24,26 @@ Se houver qualquer comportamento inaceitável, seja online ou presencial, favor 
 
 ## Guia de estilo
 
-Neste guia, você encontrará diretrizes, não regraspara facilitar a sua participação no Viva Las Venus.
+Se você não souber ou tiver alguma dúvida sobre git e GitHub, separamos dois links que podem ser bastante úteis com informaçes e comando básicos: [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) e [git.md](https://gist.github.com/leocomelli/2545add34e4fec21ec16)  
+
+Neste guia, você encontrará diretrizes, não regraspara facilitar a sua participação no Viva Las Venus.  
 
 * [`Issues`](#issues)
+  * Bugs
 * [`Labels`](#labels)
+* [`Pull request`](#pull-request)
 * [`Commits`](#commits)
-
-  &lt;!--- - Como enviar alterações \(pull request\)  
-
-* Como reportar erros \(bugs\) ---&gt;
 
 ### `Issues`
 
 `Issues` ou problemas. Essa é a melhor forma de se comunicar com todos. Você pode criar ou continuar com alguma discussão já iniciada.
 
 * Sugestões e recomendações específicas sobre como melhorar nosso conteúdo ou em qualquer lugar que o conteúdo pareça ausente ou esteja incompleto.
+* Parece óbvio, mas dê uma olhada se há outras `issues` para não duplicar.  Se outra pessoa já tiver apontado esse mesmo problema ou sugestão, você não precisará descrevê-lo novamente. 
+* O título da `issue` deve ser resumido, claro e compreensível
+* A descrição deve ser clara. Se necessário, anexe um screenshot, imagem, linha de código.
+* Para reportar um `bug`ou erro que você encontrou aqui no projeto, você também deve abrir uam `issue`, com `label` de `bug`
+* Descreva o erro e qual seria o comportamento esperado. Você também pode anexar um screenshot, se necessário
 
 ### `Labels`
 
@@ -47,6 +52,10 @@ Os `labels` ou etiquetas ajudam a acompanhar e gerenciar as issues e atender a s
 * Os `labels` são agrupados livremente. 
 * Uma `issue` pode ter mais de um label     
 * Recomendável mas não necessário que todos as `issues` tenham algum label
+
+### `Pull request`
+Para enviar um `pull request`você deve criar uma `branch`. Todas as vezes.  Ao enviar, escreva uma mensagem no `commit`
+
 
 ### `Commits`
 
