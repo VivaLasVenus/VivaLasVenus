@@ -24,7 +24,11 @@ Se houver qualquer comportamento inaceitável, seja online ou presencial, favor 
 
 ## Guia de estilo
 
-Se você não souber ou tiver alguma dúvida sobre git e GitHub, separamos dois links que podem ser bastante úteis com informaçes e comando básicos: [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) e [git.md](https://gist.github.com/leocomelli/2545add34e4fec21ec16)  
+Para fazer contribuições para este projeto, enviando sugestes, alterações, apontando erros, você precisa fazer um `Fork`deste repositório. O `fork` copia todo o repositório em sua conta git, então você poderá editar esses arquivos na interface do GitHub ou em sua própria máquina local (via terminal). Feito isso, você enviar de volta suas alterações, ou seja, você envia um `pull request`, ao aceitarmos essa solicitação, suas alterações também entram em nosso repositório.
+
+Você pode fazer o `clone`do repositório do Viva Las Venus que vocês fez um `fork`, assim ele estará localmente em computador. 
+
+###### Se você não souber ou tiver alguma dúvida sobre git e GitHub, separamos dois links que podem ser bastante úteis com informaçes e comando básicos: [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) e [git.md](https://gist.github.com/leocomelli/2545add34e4fec21ec16)  
 
 Neste guia, você encontrará diretrizes, não regraspara facilitar a sua participação no Viva Las Venus.  
 
