@@ -18,7 +18,7 @@ Você pode contribuir com design,logo, comunicação visual, desenvolvimento do 
 
 ## Diretrizes de participação
 
-Temos um [**Código de Conduta**](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/CODE_OF_CONDUCT.md#código-de-conduta-para-colaboradores). É muito importante você ler, ali estão algumas diretrizes para ajudar a garantir uma experiência segura, enriquecedora e positiva para todos.
+Temos um [**Código de Conduta**](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/Code%20of%20Conduct.md). É muito importante você ler, ali estão algumas diretrizes para ajudar a garantir uma experiência segura, enriquecedora e positiva para todos.
 
 Se houver qualquer comportamento inaceitável, seja online ou presencial, favor repostar para **vivalasvenus@riseup.net**
 
