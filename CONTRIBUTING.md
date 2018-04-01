@@ -10,11 +10,11 @@ Tudo bem se você não entende muito ou nada sobre segurança e privacidade, voc
 
 ### Em que estamos trabalhando
 
-Você pode contribuir com design,logo, comunicação visual, desenvolvimento do site, ajudando a criar um [currículo aberto\*](como-contribuir.md#currículo-aberto), desenvolvimento de material e ferramentas,compartilhando materiais e links interessantes, tradução, divulgando o projeto, palestrando, ensinando, propondo workshop, cursos e lugares para isso acontecer... ou seja são muitas maneiras!
+Você pode contribuir com design,logo, comunicação visual, desenvolvimento do site, ajudando a criar um [currículo aberto\*](#currículo-aberto), desenvolvimento de material e ferramentas,compartilhando materiais e links interessantes, tradução, divulgando o projeto, palestrando, ensinando, propondo workshop, cursos e lugares para isso acontecer... ou seja são muitas maneiras!
 
 **Nenhuma contribuição é pequena.**
 
-#### \*Currículo Aberto:
+###### \*`Currículo Aberto`: criar estruturas de aulas, workshops e até palestras, que podem ser usadas, distribuídas e modificadas livremente (usamos [Mozilla Public License 2.0](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/LICENSE)\). Este recurso ajuda a ter mais e mais rápidofeedback e participações, que melhora nosso material e de quem mais decidir usar.
 
 ## Diretrizes de participação
 
