@@ -10,7 +10,7 @@ Tudo bem se você não entende muito ou nada sobre segurança e privacidade, voc
 
 ### Em que estamos trabalhando
 
-Você pode contribuir com design,logo, comunicação visual, desenvolvimento do site, ajudando a criar um [currículo aberto\*](contributing.md#currículo-aberto), desenvolvimento de material e ferramentas,compartilhando materiais e links interessantes, tradução, divulgando o projeto, palestrando, ensinando, propondo workshop, cursos e lugares para isso acontecer... ou seja são muitas maneiras!
+Você pode contribuir com design,logo, comunicação visual, desenvolvimento do site, ajudando a criar um [currículo aberto\*](como-contribuir.md#currículo-aberto), desenvolvimento de material e ferramentas,compartilhando materiais e links interessantes, tradução, divulgando o projeto, palestrando, ensinando, propondo workshop, cursos e lugares para isso acontecer... ou seja são muitas maneiras!
 
 **Nenhuma contribuição é pequena.**
 
@@ -26,9 +26,9 @@ Se houver qualquer comportamento inaceitável, seja online ou presencial, favor 
 
 Neste guia, você encontrará diretrizes, não regraspara facilitar a sua participação no Viva Las Venus.
 
-* [Issues](contributing.md#issues)
-* [Labels](contributing.md#labels)
-* [Commits](contributing.md#commits)
+* [Issues](como-contribuir.md#issues)
+* [Labels](como-contribuir.md#labels)
+* [Commits](como-contribuir.md#commits)
 
   &lt;!--- - Como enviar alterações \(pull request\)  
 
