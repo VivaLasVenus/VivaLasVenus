@@ -75,7 +75,7 @@ Tudo bem se você não entende muito ou nada sobre segurança e privacidade, voc
 
 Lembre-se que todo conhecimento dividido, se multiplica!
 
-Por favor leia o [**CONTRIBUTING.md**](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/CONTRIBUTING.md), ali você encontrará todas as informações de como contribuir com o Viva Las Venus. Em nossa página [**Wiki**](https://github.com/VivaLasVenus/VivaLasVenus/wiki) existem vários links com dicas, tutoriais e ferramentas sobre privacidade e segurança. Temos um [**Código de Conduta**](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/CODE_OF_CONDUCT.md#código-de-conduta-para-colaboradores). É muito importante ler, ali estão algumas diretrizes para ajudar a garantir uma experiência segura, enriquecedora e positiva para todos.
+Por favor leia o [**CONTRIBUTING.md**](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/CONTRIBUTING.md), ali você encontrará todas as informações de como contribuir com o Viva Las Venus. Em nossa página [**Wiki**](https://github.com/VivaLasVenus/VivaLasVenus/wiki) existem vários links com dicas, tutoriais e ferramentas sobre privacidade e segurança. Temos um [**Código de Conduta**](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/Code%20of%20Conduct.md). É muito importante ler, ali estão algumas diretrizes para ajudar a garantir uma experiência segura, enriquecedora e positiva para todos.
 
 ## Dúvidas, críticas, sugestões
 
