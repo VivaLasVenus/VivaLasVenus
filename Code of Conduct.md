@@ -1,8 +1,8 @@
 # Código de Conduta
 
-* [Contributor Covenant Code of Conduct](codigo-de-conduta.md#contributor-covenant-code-of-conduct)
-* [Código de Conduta para Colaboradores](codigo-de-conduta.md#código-de-conduta-para-colaboradores)
-* [Código de Conducta convenido para Contribuyentes](codigo-de-conduta.md#código-de-conducta-convenido-para-contribuyentes)
+* [Contributor Covenant Code of Conduct](#contributor-covenant-code-of-conduct)
+* [Código de Conduta para Colaboradores](#código-de-conduta-para-colaboradores)
+* [Código de Conducta convenido para Contribuyentes](#código-de-conducta-convenido-para-contribuyentes)
 
 ## Contributor Covenant Code of Conduct
 
