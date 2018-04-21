@@ -1,4 +1,4 @@
-![vivalasvenus5](https://user-images.githubusercontent.com/19938761/38179122-cda2929c-35f5-11e8-80bf-53ccf435780f.png)
+![design sem nome 1](https://user-images.githubusercontent.com/19938761/39087695-29a5507c-457b-11e8-8302-7f2e9a4e387c.png)
 
 
 # Viva Las Venus
