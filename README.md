@@ -39,29 +39,21 @@ En primer lugar, ¡sean bienvenidas\(os\)! Gracias por acceder al repositorio de
 
 
 ### Português
-## O que é o Viva Las Venus
+## **Sobre o Viva Las Venus**
 
-O Viva Las Venus é um dos projetos que fazem parte do programa [Mozilla Open Leaders Round 5](https://mozilla.github.io/leadership-training/round-5/projects/). É uma iniciativa de longo prazo que visa ser um semeador para outros projetos, em busca de uma internet mais saudável, segura e diversificada. Viva Las Venus se propõe ensinar, principalmente, mas não exclusivamente, mulheres cis e trans, sobre ferramentas e técnicas de privacidade e segurança através de oficinas, debates e palestras, pessoalmente e on-line.
+Há alguns anos tenho curiosidade sobre privacidade e segurança digital, frequento eventos, converso com pessoas que compartilham dos mesmos interesses e preocupações, pesquiso de forma independente e mais recentemente, tenho feito palestras e workshops. 
 
-**Queremos que o Viva Las Venus seja uma comunidade global e aberta,  feito por todas\(os\) e para todas\(as\).**  
+Criar um projeto para ensinar segurança e privacidade (principalmente, mas não exclusivamente) para mulheres, é um desejo antigo.  Não sabia por onde começar, como fazer, quem chamar para colaborar…. enfim, muitas dúvidas.  Até que foi tomando forma e nasceu o Viva Las Venus, um dos projetos aceitos no programa **[Mozilla Open Leaders Round 5](https://mozilla.github.io/leadership-training/round-5/projects/)**
 
-Fazer parte do Viva Las Venus quer dizer que você se importa com sua privacidade e segurança digital e deseja que outras pessoas também se inspirem e aprendam. 
+Viva Las Venus é um projeto aberto, ou seja, significa compartilhar conhecimento e informações geradas pelo projeto de forma ampla e gratuita, permitindo todas(os) construam e maximize sua utilidade.  Trabalhar abertamente é ter o poder, o conhecimento e as habilidades de uma comunidade diversificada de colaboradores globais, para ir mais longe e fazer melhor, algo que sozinha não poderia ser feito. O conhecimento, os recursos e as ferramentas que geramos são mais úteis e poderosos porque são amplamente compartilhados.
 
+O Viva Las Venus é uma iniciativa de longo prazo que visa ser um semeador para outros projetos, em busca de uma internet mais aberta, saudável, segura e diversificada. Viva Las Venus foi criado para ensinar, conscientizar e aprender sobre alternativas viáveis aos problemas de privacidade e segurança que afligem nossa vida digital, através de oficinas, debates e palestras, pessoalmente e online.
 
-## Porque o Viva Las Venus foi criado
+## **Porque o Viva Las Venus foi criado**
+Hoje em dia, a maior parte de nossas vidas está online: amizade, namoro, compras, trabalho, ativismo e muitas outras atividades.  Talvez ninguém tenha te avisado que nossa vida online necessita tantos cuidados e atenção quanto nossa vida fora da web.
 
-Hoje em dia, a maior parte de nossas vidas está online, amizade, namoro, compras, trabalho e muitas outras atividades.
+Em tempos de vigilância em massa excessiva, coleta de dados, assédio, *cyber bullying*, *trolls*, *doxxing*, neutralidade da rede em perigo entre tantas outras ameaças, torna-se mais do que necessário saber como se proteger e as pessoas que amamos através do aprendizado sobre privacidade e segurança nos meios digitais de comunicação. Este é o nosso objetivo: dar liberdade às pessoas, educando-as sobre conceitos, ferramentas e técnicas de privacidade e segurança para sua vida cotidiana.
 
-Em tempos de vigilância em massa excessiva, coleta de dados, assédio, _cyber bullying, trolls, doxxing_, neutralidade da rede em perigo entre tantas outras ameaças, torna-se mais do que necessário saber como se proteger e as pessoas que amamos através do aprendizado sobre privacidade e segurança nos meios digitais de comunicação. Talvez ninguém tenha te avisado que nossa vida online necessita tantos cuidados e atenção quanto nossa vida fora da web.
-
-Este é o nosso objetivo: dar liberdade às pessoas, educando-as sobre conceitos, ferramentas e técnicas de privacidade e segurança para sua vida cotidiana.
-
-## Definições de alguns termos
-
-* Doxxing: abreviação de “droping documents”ou “liberação de documentos”. Essencialmente significa juntar e expor um dossiê de informações pessoais de alguém com a intenção de assediar ou vingança. Se trata da exposição de documentos privados de alguém. 
-* Cyber Bulllying: ou assédio virtual.
-* Neutralidade da rede:
-* Vigilância:   
 
 ## Quem somos
 
@@ -71,9 +63,9 @@ Somos uma rede aberta de pessoas de diferentes origens, experiência, qualifica�
 
 Se interessou pelo projeto? A sua ajuda é muito bem bem-vinda!
 
-Tudo bem se você não entende muito ou nada sobre segurança e privacidade, você pode colaborar de outras formas e também aprender. Nenhuma contribuição é pequena.
+Tudo bem se você não entende muito ou nada sobre segurança e privacidade, você pode colaborar de outras formas e também aprender. Nenhuma contribuição é pequena!
 
-Lembre-se que todo conhecimento dividido, se multiplica!
+**Lembre-se: todo conhecimento dividido, se multiplica!**
 
 Por favor leia o [**CONTRIBUTING.md**](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/CONTRIBUTING.md), ali você encontrará todas as informações de como contribuir com o Viva Las Venus. Em nossa página [**Wiki**](https://github.com/VivaLasVenus/VivaLasVenus/wiki) existem vários links com dicas, tutoriais e ferramentas sobre privacidade e segurança. Temos um [**Código de Conduta**](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/Code%20of%20Conduct.md). É muito importante ler, ali estão algumas diretrizes para ajudar a garantir uma experiência segura, enriquecedora e positiva para todos.
 
