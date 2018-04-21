@@ -18,21 +18,18 @@ En primer lugar, ¡sean bienvenidas\(os\)! Gracias por acceder al repositorio de
 * [**Português**](#português) 
     * [O que é o Viva Las Venus](#o-que-é-o-viva-las-venus)
     * [Porque o Viva Las Venus foi criado](#porque-o-viva-las-venus-foi-criado)
-    * [Definições de alguns termos](#definições-de-alguns-termos)
     * [Quem somos](#quem-somos)
     * [Como você pode contribuir](#como-você-pode-contribuir)
     * [Dúvidas, críticas, sugestões](#dúvidas-críticas-sugestões)
 * [**English**](#english)
     * [What is Viva Las Venus](#what-is-viva-las-venus)
-    * [Why Viva Las Venus was created](#why-viva-las-venus-was-created]
-    * Definitions of some terms
+    * [Why Viva Las Venus was created](#why-viva-las-venus-was-created)
     * [Who we are](#who-we-are)
     * [How you can contribute](#how-you-can-contribute)
     * [Suggestions and feedback](#suggestions-and-feedback)
 * [**Español**](#español)
     * Qué es Viva Las Venus
     * Por que se creó el proyecto Viva Las Venus
-    * Algunas definiciones de términos importantes para el proyecto
     * Quienes somos
     * Cómo se puede contribuir
     * Dudas, criticas y sugeréncias
