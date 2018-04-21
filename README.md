@@ -15,19 +15,19 @@ First of all, welcome! Thank you for visiting the Viva Las Venus project reposit
 
 En primer lugar, ¡sean bienvenidas\(os\)! Gracias por acceder al repositorio del proyecto Viva Las Venus. Este documento, el archivo README, es el punto central que te dará información sobre el proyecto.
 
-* [**Português**](#português) 
+* [**PORTUGUÊS**](#português) 
     * [O que é o Viva Las Venus](#o-que-é-o-viva-las-venus)
     * [Porque o Viva Las Venus foi criado](#porque-o-viva-las-venus-foi-criado)
     * [Quem somos](#quem-somos)
     * [Como você pode contribuir](#como-você-pode-contribuir)
     * [Dúvidas, críticas, sugestões](#dúvidas-críticas-sugestões)
-* [**English**](#english)
+* [**ENGLISH**](#english)
     * [What is Viva Las Venus](#what-is-viva-las-venus)
     * [Why Viva Las Venus was created](#why-viva-las-venus-was-created)
     * [Who we are](#who-we-are)
     * [How you can contribute](#how-you-can-contribute)
     * [Suggestions and feedback](#suggestions-and-feedback)
-* [**Español**](#español)
+* [**ESPAÑOL**](#español)
     * Qué es Viva Las Venus
     * Por que se creó el proyecto Viva Las Venus
     * Quienes somos
@@ -35,7 +35,7 @@ En primer lugar, ¡sean bienvenidas\(os\)! Gracias por acceder al repositorio de
     * Dudas, criticas y sugeréncias
 
 
-### Português
+### PORTUGUÊS
 ## **Sobre o Viva Las Venus**
 
 Há alguns anos tenho curiosidade sobre privacidade e segurança digital, frequento eventos, converso com pessoas que compartilham dos mesmos interesses e preocupações, pesquiso de forma independente e mais recentemente, tenho feito palestras e workshops. 
@@ -72,7 +72,7 @@ Você pode criar uma [**issue**](https://github.com/VivaLasVenus/VivaLasVenus/is
 
 Se preferir, você também pode entrar em contato por email **vivalasvenus@riseup.net**
 
-## English
+## ENGLISH
 
 ## What is Viva Las Venus
 I have been curious about privacy and digital security for some years. I attend at events, talking with people who share the same interests and concerns, researching independently and more recently, I have been giving lectures and workshops. 
@@ -107,5 +107,5 @@ You can either create a [**issue**](https://github.com/VivaLasVenus/VivaLasVenus
 
 If you choose, you can also contact us by email **vivalasvenus@riseup.net**
 
-## Español
+## ESPAÑOL
 
