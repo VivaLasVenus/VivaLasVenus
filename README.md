@@ -23,12 +23,12 @@ En primer lugar, ¡sean bienvenidas\(os\)! Gracias por acceder al repositorio de
     * [Como você pode contribuir](#como-você-pode-contribuir)
     * [Dúvidas, críticas, sugestões](#dúvidas-críticas-sugestões)
 * [**English**](#english)
-    * What is Viva Las Venus
-    * Why Viva Las Venus was created
+    * [What is Viva Las Venus](#what-is-viva-las-venus)
+    * [Why Viva Las Venus was created](#why-viva-las-venus-was-created]
     * Definitions of some terms
-    * Who we are
-    * How you can contribute
-    * Suggestions and feedback
+    * [Who we are](#who-we-are)
+    * [How you can contribute](#how-you-can-contribute)
+    * [Suggestions and feedback](#suggestions-and-feedback)
 * [**Español**](#español)
     * Qué es Viva Las Venus
     * Por que se creó el proyecto Viva Las Venus
