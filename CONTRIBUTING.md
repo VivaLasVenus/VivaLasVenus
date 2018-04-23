@@ -1,3 +1,7 @@
+<p align="center">
+![Alt Text](https://media.giphy.com/media/SKT65Zm2NB3Oy16IwT/giphy.gif)
+ <p>
+
 # Como contribuir
 
 ## Contribuindo com o Viva Las Venus
