@@ -1,5 +1,5 @@
-* [**Contribuindo com o Viva Las Venus**](#contribuindo#com#o#viva@las#venus) 
-* [**Contributing with Viva Las Venus**](#contributing#with#viva#las#venus)  
+* [**Contribuindo com o Viva Las Venus**](#contribuindo-com-o-viva-las-venus) 
+* [**Contributing with Viva Las Venus**](#contributing-with-viva-las-venus)  
 ----  
 
 
