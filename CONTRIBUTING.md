@@ -1,8 +1,4 @@
-
-![Alt Text](https://media.giphy.com/media/SKT65Zm2NB3Oy16IwT/giphy.gif)
-
-
-# How to contribute
+![how to contribute1](https://user-images.githubusercontent.com/19938761/39716067-a5d2b450-5205-11e8-905d-7cbffd5d59b4.png)
 
 ## Contributing with Viva Las Venus
 
