@@ -1,3 +1,8 @@
+* [**Contribuindo com o Viva Las Venus**](#contribuindo#com#o#viva@las#venus) 
+* [**Contributing with Viva Las Venus**](#contributing#with#viva#las#venus)  
+----  
+
+
 ![contribuir](https://user-images.githubusercontent.com/19938761/39716220-1e27470e-5206-11e8-9e0f-6a86f7077984.png)
 
 ## **Contribuindo com o Viva Las Venus**
