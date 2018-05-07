@@ -2,75 +2,79 @@
 ![Alt Text](https://media.giphy.com/media/SKT65Zm2NB3Oy16IwT/giphy.gif)
 
 
-# Como contribuir
+# How to contribute
 
-## Contribuindo com o Viva Las Venus
+## Contributing with Viva Las Venus
 
-Estamos muito felizes e honradas\(os\) que você decidiu contribuir com o Viva Las Venus. Sua colaboração é essencial para que o projeto se mantenha vivo.
+We are very glad and honored that you decided to contribute with Viva Las Venus.  Your collaboration is essential to keep the project alive.
 
-Estamos construindo uma comunidade de colaboradores com diferentes habilidades para nos ajudar a documentar e compartilhar conhecimento.
+We are building a contributors' community with different skills to help to document and share knowledge.
 
-Tudo bem se você não entende muito ou nada sobre segurança e privacidade, você pode colaborar de outras formas e também aprender, afinal, é para isso que o projeto foi criado!
+> **Contributions are always welcome, all shared knowledge is growth!**
 
-### Em que estamos trabalhando
+Viva Las Venus is still a baby. To grow strong with a amazing community, we need your contribution. It’s okay if you do not understand much or nothing about security and privacy, you can collaborate in many different ways and also, learn and have fun (**this is quite important!**)
 
-Você pode contribuir com design,logo, comunicação visual, desenvolvimento do site, ajudando a criar um [currículo aberto\*](#currículo-aberto), pesquisadoras(es), desenvolvimento de material e ferramentas,compartilhando materiais e links interessantes, tradução, divulgando o projeto, patrocinadores, palestrando, ensinando, propondo workshop, cursos e lugares para isso acontecer... ou seja são muitas maneiras!
+* **Publicizing Viva Las Venus:** 
+Spread the news! Tell for your friends, at college, school, work…. the more people interested in contributing and/or learning, the better!
 
-**Nenhuma contribuição é pequena.**
+* **Logo/ Visual Communication:** 
+Do you have design skills? It would be awesome to have a beautiful design for social media, workshop/talks material and website
 
-###### \*`Currículo Aberto`: criar estruturas de aulas, workshops e até palestras, que podem ser usadas, distribuídas e modificadas livremente usamos [Attribution-ShareAlike 4.0 International](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/LICENSE.md\)). Este recurso ajuda a ter mais e mais rápidofeedback e participações, que melhora nosso material e de quem mais decidir usar.
------------------
-## Diretrizes de participação
+* **Website development:**
+Right now, everything is only on our GitHub. We know this is not easiest platform to use, especially if you’re new to GitHub, so it would be great to have all information on a website
 
-Temos um [**Código de Conduta**](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/Code%20of%20Conduct.md). É muito importante você ler, ali estão algumas diretrizes para ajudar a garantir uma experiência segura, enriquecedora e positiva para todos.
+* **Translation/ Localization:** 
+In order to be global, having content written only in Portuguese, the language I speak, is not enough. Corrections in the translations are very welcome! Also, you can contribute by translating to other languages.
 
-Se houver qualquer comportamento inaceitável, seja online ou presencial, favor repostar para **vivalasvenus@riseup.net**
+* **Links, tools, material:** 
+In wiki section of our GitHub, there is a list of cool links, tips and guides. Do you know more cool stuff on security and privacy? Please, share with us!
 
-## Guia de estilo
+* **Teaching and material development:** 
+Are you a researcher? Professor? Hacktivist? Student? Or do you have teaching material development skills and/or [open curriculum\*] in privacy & security? Your help is very valuable and noble. Join us!
 
-Para fazer contribuições para este projeto, enviando sugestes, alterações, apontando erros, você precisa fazer um `Fork`deste repositório. O `fork` copia todo o repositório em sua conta git, então você poderá editar esses arquivos na interface do GitHub ou em sua própria máquina local (via terminal). Feito isso, você enviar de volta suas alterações, ou seja, você envia um `pull request`, ao aceitarmos essa solicitação, suas alterações também entram em nosso repositório.
+* **Other kind of contribution:** 
+If your skill is not listed here, no problem! Tell us how you would like to help. We’ll be happy to have your contribution!
 
-Você pode fazer o `clone`do repositório do Viva Las Venus que vocês fez um `fork`, assim ele estará localmente em computador. 
 
-###### Se você não souber ou tiver alguma dúvida sobre git e GitHub, separamos dois links que podem ser bastante úteis com informaçes e comando básicos: [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) e [git.md](https://gist.github.com/leocomelli/2545add34e4fec21ec16)  
 
-Neste guia, você encontrará diretrizes, não regraspara facilitar a sua participação no Viva Las Venus.  
+###### \*`Open Curriculum`: create structures to class, workshops and even lectures, which can be used, distributed and modified freely.  We use [Attribution-ShareAlike 4.0 International](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/LICENSE.md\)) . This feature helps you get more and faster feedback and participations, which improves our material and who else to decide to use.
+
+## Participation guidelines
+
+We have a [**Code of Conduct**](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/Code%20of%20Conduct.md). It is very important that you read, there are some guidelines to help ensure a safe, enriching and positive experience for everyone.
+
+If there is any unacceptable behavior, either online or in-person, please report to **vivalasvenus@riseup.net**
+
+## Style Guide
+
+Here is a guideline to facilitate your participation in Viva Las Venus. This is the best way to communicate with everyone. You can create ou continue with some 
+
 
 * [`Issues`](#issues)
-  * Bugs
 * [`Labels`](#labels)
-* [`Pull request`](#pull-request)
-* [`Commits`](#commits)
 
-### `Issues`
 
-`Issues` ou problemas. Essa é a melhor forma de se comunicar com todos. Você pode criar ou continuar com alguma discussão já iniciada.
+### `Issues`	
+This is the best way to communicate with everyone. You can create or continue any discussion already started.
 
-* Sugestões e recomendações específicas sobre como melhorar nosso conteúdo ou em qualquer lugar que o conteúdo pareça ausente ou esteja incompleto.
-* Parece óbvio, mas dê uma olhada se há outras `issues` para não duplicar.  Se outra pessoa já tiver apontado esse mesmo problema ou sugestão, você não precisará descrevê-lo novamente. 
-* O título da `issue` deve ser resumido, claro e compreensível
-* A descrição deve ser clara. Se necessário, anexe um screenshot, imagem, linha de código.
-* Para reportar um `bug`ou erro que você encontrou aqui no projeto, você também deve abrir uam `issue`, com `label` de `bug`
-* Descreva o erro e qual seria o comportamento esperado. Você também pode anexar um screenshot, se necessário
+1. Specific suggestions and recommendations on how to improve our content or wherever the content appears to be missing or incomplete;
+
+1. It seems obvious, but take a look if there are other `issues` to do not duplicate. If someone else has already pointed out this same problem or suggestion, you will not need to describe it again;
+
+1. The title of the 'issue should be summarized, clear and comprehensible;
+
+1. The description should be clear. If necessary, attach a screenshot, image or line of code (if appliable);
+
+1. To report a `bug` or error that you found here in the project, you should also open an`issue`, with the label `bug`;
+
+1. Describe the error and what the expected behavior would be. You can also attach a screenshot if necessary.
 
 ### `Labels`
+`Labels` help track and manage issues and respond to requests.
 
-Os `labels` ou etiquetas ajudam a acompanhar e gerenciar as issues e atender a solicitações.
-
-* Os `labels` são agrupados livremente. 
-* Uma `issue` pode ter mais de um label     
-* Recomendável mas não necessário que todos as `issues` tenham algum label
-
-### `Pull request`
-Para enviar um `pull request`você deve criar uma `branch`. Todas as vezes.  Ao enviar, escreva uma mensagem no `commit`
+1. The labels are grouped freely;
+1. An `issue` may have more than one label;
+1. Recommended but not necessary that all issues have some label.
 
 
-### `Commits`
-
-Quando você propõe alguma mudança, para realmente confirmá-la você usa o `commit` com uma mensagem. O ideal das mensagens são:
-
-* Sempre que puder, as mensagens devem ser em inglês e se possível também em português e espanhol.  O uso da língua inglesa é uma forma mais global de usar o GitHub
-* Use o tempo presente \("Add feature" não "Added feature"\)  
-* Use o modo imperativo \("Move cursor to ..."  não "Moves cursor to..."\)  
-* No título, seja conciso, deixa a explicação na descrição.
 
