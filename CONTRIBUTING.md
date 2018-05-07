@@ -30,7 +30,7 @@ In order to be global, having content written only in Portuguese, the language I
 In wiki section of our GitHub, there is a list of cool links, tips and guides. Do you know more cool stuff on security and privacy? Please, share with us!
 
 * **Teaching and material development:** 
-Are you a researcher? Professor? Hacktivist? Student? Or do you have teaching material development skills and/or [open curriculum\*] in privacy & security? Your help is very valuable and noble. Join us!
+Are you a researcher? Professor? Hacktivist? Student? Or do you have teaching material development skills and/or open curriculum\* in privacy & security? Your help is very valuable and noble. Join us!
 
 * **Other kind of contribution:** 
 If your skill is not listed here, no problem! Tell us how you would like to help. We’ll be happy to have your contribution!
