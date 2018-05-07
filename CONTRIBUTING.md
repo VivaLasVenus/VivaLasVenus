@@ -145,7 +145,7 @@ This is the best way to communicate with everyone. You can create or continue an
 
 1. The labels are grouped freely;
 1. An `issue` may have more than one label;
-1. Recommended but not necessary that all issues have some label.
+1. Recommended but not necessary that all issues have some `label`.
 
 
 
