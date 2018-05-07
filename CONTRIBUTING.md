@@ -1,3 +1,79 @@
+![contribuir](https://user-images.githubusercontent.com/19938761/39716220-1e27470e-5206-11e8-9e0f-6a86f7077984.png)
+
+## **Contribuindo com o Viva Las Venus**
+
+Estamos muito felizes e honradas\(os\) que você decidiu contribuir com o Viva Las Venus. Sua colaboração é essencial para que o projeto se mantenha vivo.
+
+Estamos construindo uma comunidade de colaboradores com diferentes habilidades para nos ajudar a documentar e compartilhar conhecimento.
+
+> Contribuições são sempre bem vindas, todo conhecimento compartilhado é crescimento!
+
+Viva Las Venus é ainda um bebê. Para crescer forte, com uma comunidade incrível, precisamos de sua colaboração. Está tudo bem se você entende pouco ou nada sobre segurança e privacidade, você pode colaborar de várias outras maneiras  e também, aprender e se divertir (**isto é muito importante!**)
+
+* **Divulgue o Viva Las Venus:** 
+Espalhe a notícia! Fale para seus amigos na escola, faculdade, trabalho… quanto mais pessoas interessadas em contribuir e/ou aprender, melhor!
+
+* **Logo/ Comunicação Visual:** 
+Você tem habilidades de design? Seria maravilhoso ter um design bem bonito para que possamos usar nas mídias sociais, em materiais de palestras e workshops e também, no site.
+
+* **Desenvolvimento do site:**
+Neste momento, tudo está apenas no GitHub.  Sabemos que a plataforma não é das mais simples de usar, especialmente para quem não está familiarizado.  Por isso, será muito legal se pudermos ter todas as informações num site.
+
+* **Tradução:** 
+Para o projeto ser global, ter o conteúdo apenas em português não é suficiente.  Correções das traduções para outras línguas que fizemos por aqui, será muito bem-vinda! Você também pode contribuir com traduções de outros idiomas.
+
+* **Links, ferramentas, materiais:** 
+Na wiki do nosso GitHub, há uma lista bem bacana com alguns links, dicas e guias.Você sabe de mais coisas legais de segurança e privacidade? Por favor, compartilhe com a gente!
+
+* **Ensinar e desenvolver material** 
+Você é uma pesquisadora(or)? Hackerativista? Estudante? Ou tem habilidades para desenvolver materiais de ensino/ currículo aberto\*? Sua ajuda é muito valiosa e nobre. Junte-se a nós!
+
+* **Outros tipos de contribuições:** 
+Se suas habilidades não estão listadas aqui, sem problemas! Diga-nos como você gostaria de ajudar. Ficaremos super felizes com sua contribuição!
+
+
+###### \*`Currículo Aberto`: criar estruturas de aulas, workshops e até palestras, que podem ser usadas, distribuídas e modificadas livremente usamos [Attribution-ShareAlike 4.0 International](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/LICENSE.md\)). Este recurso ajuda a ter mais e mais rápido feedback e participações, o que melhora nosso material e de quem mais decidir usar.
+
+## Diretrizes de participação
+
+Temos um [**Código de Conduta**](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/Code%20of%20Conduct.md). É muito importante você ler, ali estão algumas diretrizes para ajudar a garantir uma experiência segura, enriquecedora e positiva para todos.
+
+Se houver qualquer comportamento inaceitável, seja online ou presencial, favor repostar para **vivalasvenus@riseup.net**
+
+## Diretrizes de participação
+
+Temos um [**Código de Conduta**](https://github.com/VivaLasVenus/VivaLasVenus/blob/master/Code%20of%20Conduct.md). É muito importante você ler, ali estão algumas diretrizes para ajudar a garantir uma experiência segura, enriquecedora e positiva para todos.
+
+Se houver qualquer comportamento inaceitável, seja online ou presencial, favor repostar para **vivalasvenus@riseup.net**
+
+
+## Guia de estilo
+Neste guia, você encontrará algumas diretrizes para facilitar a sua participação no Viva Las Venus. 
+
+* [`Issues`](#issues)
+* [`Labels`](#labels)
+
+### `Issues`
+
+`Issues` ou problemas. Essa é a melhor forma de se comunicar com todos. Você pode criar ou continuar com alguma discussão já iniciada.
+
+1. Sugestões e recomendações específicas sobre como melhorar nosso conteúdo ou em qualquer lugar que o conteúdo pareça ausente ou esteja incompleto.
+1. Parece óbvio, mas dê uma olhada se há outras `isques` para não duplicar.  Se outra pessoa já tiver apontado esse mesmo problema ou sugestão, você não precisará descrevê-lo novamente. 
+1. O título da `issue` deve ser resumido, claro e compreensível
+1. A descrição deve ser clara. Se necessário, anexe um screenshot, imagem, linha de código.
+1. Para reportar um `bug` ou erro que você encontrou aqui no projeto, você também deve abrir uma `issue`, com `label` de `bug`
+1. Descreva o erro e qual seria o comportamento esperado. Você também pode anexar um screenshot, se necessário
+
+### `Labels`
+
+Os `labels` ou etiquetas ajudam a acompanhar e gerenciar as `issues` e atender a solicitações.
+
+1. Os `labels` são agrupados livremente. 
+1. Uma `issue` pode ter mais de um `label`     
+1. Recomendável mas não necessário que todos as `issues` tenham algum `label`
+
+---  
+
 ![how to contribute1](https://user-images.githubusercontent.com/19938761/39716067-a5d2b450-5205-11e8-905d-7cbffd5d59b4.png)
 
 ## Contributing with Viva Las Venus
@@ -43,8 +119,7 @@ If there is any unacceptable behavior, either online or in-person, please report
 
 ## Style Guide
 
-Here is a guideline to facilitate your participation in Viva Las Venus. This is the best way to communicate with everyone. You can create ou continue with some 
-
+Here is a guideline to facilitate your participation in Viva Las Venus. 
 
 * [`Issues`](#issues)
 * [`Labels`](#labels)
