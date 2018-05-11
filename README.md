@@ -70,7 +70,7 @@ Por favor leia o [**CONTRIBUTING.md**](https://github.com/VivaLasVenus/VivaLasVe
 
 Você pode criar uma [**issue**](https://github.com/VivaLasVenus/VivaLasVenus/issues) ou continuar com alguma discussão já iniciada. Essa é a melhor forma de se comunicar com todos.
 
-Se preferir, você também pode entrar em contato por email **vivalasvenus@riseup.net**
+Se preferir, você também pode entrar em contato por email **vivalasvenus@riseup.net** ou pelo Twitter [**@viva_las_venus**](https://twitter.com/)
 
 ## ENGLISH
 
@@ -105,7 +105,7 @@ Please read the [**CONTRIBUTING.md**](https://github.com/VivaLasVenus/VivaLasVen
 
 You can either create a [**issue**](https://github.com/VivaLasVenus/VivaLasVenus/issues) or continue with some discussion already started. This is the best way to communicate with everyone.
 
-If you choose, you can also contact us by email **vivalasvenus@riseup.net**
+If you choose, you can also contact us by email **vivalasvenus@riseup.net** or by Twitter [**@viva_las_venus**](https://twitter.com/)
 
 ## ESPAÑOL
 
